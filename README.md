@@ -22,7 +22,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados por mim:
 
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 
